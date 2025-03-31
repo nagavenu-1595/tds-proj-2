@@ -2,3 +2,5 @@
 .env
 /extracted_files
 /pycache
+
+.vercel
